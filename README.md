@@ -9,5 +9,5 @@ NIM: 050590589
 Cara menjalankan program ini:
 1. Clone repositori ini.
 2. Buka proyek menggunakan Intellij IDEA atau IDE Java lainnya.
-3. Jalankan file 'HitungGaji.java' pada file 'src'
+3. Jalankan file 'HitungGaji.java' pada folder file 'src'
 4. Ikuti intruksi input pada terminal.
